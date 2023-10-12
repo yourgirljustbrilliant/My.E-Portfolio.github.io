@@ -1,32 +1,23 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Welcome to My Portfolio Repository
+
+## About Me
+
+Hello, I'm Tiffany Wright, a passionate developer who loves to create and tell stories with data . This GitHub.io repository serves as a showcase for the projects I've completed, offering a glimpse into my journey in data analyst and data engineering.
+
+## What You'll Find Here
+
+### Diverse Projects
+
+I've poured my creativity and dedication into a variety of projects, each with its unique challenges and solutions. Whether it's web applications, data analysis, or creative experiments, you'll find a wide range of work in this repository.
+
+### Problem Solving
+
+Each project represents a problem I've tackled and a skill I've honed. I take pride in my problem-solving abilities, and this repository is a testament to my commitment to finding solutions.
+
+## Explore and Connect
+
+I invite you to explore my work, and I hope you find inspiration, insights, and perhaps solutions for your own projects. Feel free to connect with me for any questions, suggestions, or collaboration opportunities.
+
+Thank you for visiting!
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
